@@ -66,6 +66,7 @@ project "SOIL2"
     }
     buildoptions
     {
+	   "-fPIC"
     }
 
   filter "toolset:clang"
